@@ -1,7 +1,7 @@
 import oc from "open-color";
 
 const shades = (index: number) => [
-  oc.red[index],
+  oc.green[index],
   oc.pink[index],
   oc.grape[index],
   oc.violet[index],
